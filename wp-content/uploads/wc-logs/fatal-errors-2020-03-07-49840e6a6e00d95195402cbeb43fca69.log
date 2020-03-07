@@ -1,0 +1,4 @@
+2020-03-07T16:06:13+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp1\htdocs\dientu\wp-admin\includes\class-wp-privacy-data-export-requests-list-table.php on line 10
+
+2020-03-07T16:06:13+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp1\htdocs\dientu\wp-content\plugins\woocommerce\includes\api\v2\class-wc-rest-system-status-tools-v2-controller.php on line 19
+
